@@ -1,9 +1,10 @@
 
 
 
-# <p align="center">
+# 
+<p align="center">
   <a href="https://zaliczto.pl">
-    <img src=".github/assets/images/logotype.png" alt="ZaliczTo.pl Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/ZaliczTo-PL/.github/refs/heads/main/assets/images/logotype.png" alt="ZaliczTo.pl Logo" width="200"/>
   </a>
 </p>
  ZaliczTo.PL
@@ -54,6 +55,7 @@ Obiecujemy – **warto czekać!** ❤️
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
