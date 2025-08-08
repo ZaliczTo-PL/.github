@@ -18,7 +18,8 @@ Dzięki **ZaliczTo.pl** zyskasz:
 * **Interaktywne narzędzia**, które ułatwią naukę.
 * Możliwość **powtórki przed egzaminem** w dowolnym momencie.  
 <br>  
-<br>  
+<br>
+
 ## ✨ Co nas wyróżnia?
 
 * 📖 **Treści zgodne z programem nauczania** – bazujemy na oficjalnych wymaganiach MEN.
@@ -52,6 +53,7 @@ Obiecujemy – **warto czekać!** ❤️
 
 Masz pytania lub chcesz współpracować?  
 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
