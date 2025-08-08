@@ -1,7 +1,12 @@
 
----
 
-# 📚 ZaliczTo.PL
+
+# <p align="center">
+  <a href="https://zaliczto.pl">
+    <img src=".github/assets/images/logotype.png" alt="ZaliczTo.pl Logo" width="200"/>
+  </a>
+</p>
+ ZaliczTo.PL
 
 **ZaliczTo.pl** to innowacyjna aplikacja stworzona z myślą o uczniach, którzy chcą **lepiej zrozumieć i przyswoić wiedzę** z oficjalnego programu nauczania Ministerstwa Edukacji.
 Naszą misją jest **uprościć trudne zagadnienia**, aby każdy mógł przygotować się do sprawdzianów i egzaminów w sposób efektywny i przyjemny.
@@ -49,5 +54,6 @@ Obiecujemy – **warto czekać!** ❤️
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
