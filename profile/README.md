@@ -27,7 +27,7 @@ Dzięki **ZaliczTo.pl** zyskasz:
 * 🔍 **Krótkie podsumowania** – abyś szybko powtórzył najważniejsze informacje.
 * 📈 **Postęp nauki** – śledź, ile już umiesz i co jeszcze musisz powtórzyć.
 
---
+
 
 ## 🚀 Status projektu
 
@@ -47,6 +47,7 @@ Obiecujemy – **warto czekać!** ❤️
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
