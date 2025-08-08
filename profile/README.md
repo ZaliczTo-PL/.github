@@ -7,7 +7,7 @@
 **ZaliczTo.pl** to innowacyjna aplikacja stworzona z myślą o uczniach, którzy chcą **lepiej zrozumieć i przyswoić wiedzę** z oficjalnego programu nauczania Ministerstwa Edukacji.
 Naszą misją jest **uprościć trudne zagadnienia**, aby każdy mógł przygotować się do sprawdzianów i egzaminów w sposób efektywny i przyjemny.
 
---
+
 
 ## 🎯 Nasz cel
 
@@ -19,7 +19,6 @@ Dzięki **ZaliczTo.pl** zyskasz:
 * **Interaktywne narzędzia**, które ułatwią naukę.
 * Możliwość **powtórki przed egzaminem** w dowolnym momencie.
 
---
 
 ## ✨ Co nas wyróżnia?
 
@@ -37,19 +36,18 @@ Aplikacja jest obecnie w fazie przygotowania.
 
 🔗 [**Dołącz do waitlisty**](https://zaliczto.pl)
 
---
 
 ## 📅 Kiedy startujemy?
 
 Oficjalna data premiery zostanie ogłoszona wkrótce.
 Obiecujemy – **warto czekać!** ❤️
 
---
 
 ## 📬 Kontakt
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
