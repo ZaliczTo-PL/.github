@@ -29,6 +29,8 @@ Dzięki **ZaliczTo.pl** zyskasz:
 
 
 
+
+
 ## 🚀 Status projektu
 
 Aplikacja jest obecnie w fazie przygotowania.
@@ -37,16 +39,21 @@ Aplikacja jest obecnie w fazie przygotowania.
 🔗 [**Dołącz do waitlisty**](https://zaliczto.pl)
 
 
+
+
 ## 📅 Kiedy startujemy?
 
 Oficjalna data premiery zostanie ogłoszona wkrótce.
 Obiecujemy – **warto czekać!** ❤️
 
 
+
+
 ## 📬 Kontakt
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
