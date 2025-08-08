@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ZaliczTo-PL/.github/refs/heads/main/assets/images/logotype.png" alt="ZaliczTo.pl Logotype" width="40" height="40" style="vertical-align: middle; margin-right: 8px;"/> ZaliczTo.PL
+# <img src="https://raw.githubusercontent.com/ZaliczTo-PL/.github/refs/heads/main/assets/images/logotype.png" alt="ZaliczTo.pl Logotype" width="40" height="40" style=" margin-right: 8px;"/> ZaliczTo.PL
 
 
 **ZaliczTo.pl** to innowacyjna aplikacja stworzona z myślą o uczniach, którzy chcą **lepiej zrozumieć i przyswoić wiedzę** z oficjalnego programu nauczania Ministerstwa Edukacji.
@@ -47,6 +47,7 @@ Obiecujemy – **warto czekać!** ❤️
 
 Masz pytania lub chcesz współpracować?
 📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
