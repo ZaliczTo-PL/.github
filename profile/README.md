@@ -52,7 +52,8 @@ Obiecujemy – **warto czekać!** ❤️
 ## 📬 Kontakt
 
 Masz pytania lub chcesz współpracować?
-📧 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+**[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
+
 
 
 
