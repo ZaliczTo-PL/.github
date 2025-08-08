@@ -1,0 +1,2 @@
+# ZaliczTo.PL
+Zaliczto.pl to aplikacja, która powstała z myślą o uczniach chcących lepiej przyswoić wiedzę z programu nauczania prosto z Ministerstwa Edukacji. Naszym celem jest przedstawienie materiału w przystępnej i zrozumiałej formie, ponieważ jesteśmy świadomi, że w szkole często nie jest on odpowiednio wytłumaczony. Dzięki Zaliczto.pl będą mają dostęp do prostych i łatwych do zapamiętania wyjaśnień, praktycznych przykładów oraz narzędzi wspierających naukę, co pozwala na efektywniejsze przygotowanie się do egzaminów oraz sprawdzianów.
