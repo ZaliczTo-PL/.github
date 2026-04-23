@@ -3,7 +3,7 @@
   ZaliczTo.PL
 </h1>
 
-**we are building something big**
+instead of wasting your time scrolling tiktok mabe scroll something better?
 
 
 signup for the waitlist https://zaliczto.pl
