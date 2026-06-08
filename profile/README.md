@@ -3,12 +3,9 @@
   ZaliczTo.PL
 </h1>
 
-instead of wasting your time scrolling tiktok mabe scroll something better?
 
 
-signup for the waitlist https://zaliczto.pl
-
-contact:
+kontakt:
 **[kontakt@zaliczto.pl](mailto:kontakt@zaliczto.pl)**
 
 
